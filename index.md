@@ -4,11 +4,11 @@
 
 ### Projects
 
-[Phyton for Komputasi Statistika](/Machine_Learning_12_Fadlilah_Nurul_Aini_24050120120033)
+[Phyton for Komputasi Statistika](/Machine_Learning_12_Fadlilah_Nurul_Aini_24050120120033.ipynb)
 <img src="images/bc.jpeg?raw=true"/>
 
 ---
-[Draft Google Colab](/file_fadlilah)
+[Draft Google Colab](/file_fadlilah.ipynb)
 <img src="images/bb.jpeg?raw=true"/>
 
 ---
