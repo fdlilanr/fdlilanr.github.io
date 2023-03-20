@@ -4,17 +4,17 @@
 
 ### Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Phyton for Komputasi Statistika](/Machine_Learning_12_Fadlilah_Nurul_Aini_24050120120033)
+<img src="images/bc.jpeg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Draft Google Colab](/file_fadlilah)
+<img src="images/bb.jpeg?raw=true"/>
 
 ---
 
 
-### Category Name 2
+### Another Project
 
 
 ---
